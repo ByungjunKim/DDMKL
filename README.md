@@ -1,5 +1,7 @@
 # Doctoral dissertations on modern Korean literature
 한국현대문학 박사학위 논문 토픽모델링
+* 김병준(성균관대학교 국어국문학과 강사)
+* 천정환(성균관대학교 국어국문학과 교수)
 
 ## 1. 데이터 수집 및 개괄
 
