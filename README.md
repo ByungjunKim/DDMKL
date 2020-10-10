@@ -1,5 +1,7 @@
-# Doctoral dissertations on modern Korean literature
-한국현대문학 박사학위 논문 토픽모델링
+# Doctoral dissertations on modern Korean literature (DDMKL)
+논문제목 : 박사학위 논문(2000~2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망
+
+저자
 * 김병준(성균관대학교 국어국문학과 강사)
 * 천정환(성균관대학교 국어국문학과 교수)
 
