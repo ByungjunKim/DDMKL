@@ -11,6 +11,7 @@
 ## 1. 데이터 수집 및 개괄
 #### Selenium 을 활용한 RISS 서지정보 자동 내려받기
 * 00RissCrawling.ipynb ([코드 활용안내 튜토리얼](https://youtu.be/3A7EKg9XyMU))
+* 01RissParsing.ipynb
 
 ## 2. 데이터 전처리
 #### Pandas를 활용한 데이터 전처리
