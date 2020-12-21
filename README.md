@@ -14,6 +14,7 @@
 * 01RissParsing.ipynb (RISS에서 다운로드 받은 서지정보 엑셀파일 합치기)
 
 ## 2. 데이터 전처리 & 형태소 분석
+* 02Preprocess.ipynb ([구글 Colab 링크](https://colab.research.google.com/drive/1x8DIFh5LMjIC7E3Qezy9emWp_-EpMqEO?usp=sharing))
 #### Pandas를 활용한 데이터 전처리
 #### 사용자 사전 구축
 #### Khaiii 형태소 분석기
