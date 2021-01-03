@@ -21,6 +21,7 @@
 * 불용어 처리
 
 ## 3. 기술 통계량 & 키워드 추출
+#### 03Keywords.ipynb ([구글 Colab 링크](https://colab.research.google.com/drive/1bGebwCdiwY1g-0aMEUqQbZ1QMptSkDc7?usp=sharing))
 * 기술 통계량
 * TF, TF-IDF 기준 키워드 추출
 * 시기별 키워드 추출
