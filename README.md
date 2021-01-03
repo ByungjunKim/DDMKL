@@ -12,6 +12,7 @@
 ### Selenium 을 활용한 RISS 서지정보 자동 내려받기
 #### 00RissCrawling.ipynb (RISS 서지정보 자동수집, [코드 활용안내 튜토리얼](https://youtu.be/3A7EKg9XyMU))
 #### 01RissParsing.ipynb (RISS에서 다운로드 받은 서지정보 엑셀파일 합치기)
+#### [크롬 드라이버 다운로드](https://chromedriver.chromium.org/downloads)
 
 ## 2. 데이터 전처리 & 형태소 분석
 #### 02Preprocess.ipynb ([구글 Colab 링크](https://colab.research.google.com/drive/1x8DIFh5LMjIC7E3Qezy9emWp_-EpMqEO?usp=sharing))
