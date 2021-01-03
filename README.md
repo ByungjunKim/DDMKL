@@ -28,11 +28,11 @@
 * 시기별 키워드 추출
 
 ## 4. 시계열 토픽 모델링
-#### 04Model.ipynb ([구글 Colab 링크](https://colab.research.google.com/drive/15A9sNGjogSm23yYmT_KVkwWd6YHxfvur?usp=sharing)
+#### 04Model.ipynb ([구글 Colab 링크](https://colab.research.google.com/drive/15A9sNGjogSm23yYmT_KVkwWd6YHxfvur?usp=sharing))
 * 모델링
 * 시각화
 
 ## 5. 토픽 모델링 시각화
-#### 05Visual.ipynb ([구글 Colab 링크](https://colab.research.google.com/drive/1h2ezHVSLRGoT6pvbS8sflaZcGtZ3E9B3?usp=sharing)
+#### 05Visual.ipynb ([구글 Colab 링크](https://colab.research.google.com/drive/1h2ezHVSLRGoT6pvbS8sflaZcGtZ3E9B3?usp=sharing))
 * 시간에 따른 토픽별 주요단어 변화
 * 토픽-토픽 네트워크
