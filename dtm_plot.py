@@ -23,6 +23,7 @@ elif os.name=='posix':
     font_name = fm.FontProperties(fname=font_path, size=10).get_name()
     print(font_name)
     plt.rc('font', family=font_name)
+    mpl.font_manager._rebuild()
 
 # Gensim
 import gensim
