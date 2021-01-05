@@ -2,8 +2,8 @@
 [박사학위 논문(2000~2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망 (상허학보 60, 202010)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202)
 
 ## 저자
-* 김병준(성균관대학교 인터랙션사이언스학과 박사과정)
-* 천정환(성균관대학교 국어국문학과 교수)
+* 김병준(성균관대학교 인터랙션사이언스학과 박사과정, kimkunta@skku.edu)
+* 천정환(성균관대학교 국어국문학과 교수, hicnunc@skku.edu)
 
 ## 코드 활용
 Jupyter 코드(ipynb)를 다운받아 로컬에서 활용하거나, 핵심 코드 3개(전처리, 키워드, 모델링)는 Google Colab으로 바로 코드 확인 및 개발 가능.
