@@ -6,6 +6,7 @@
 * 천정환(성균관대학교 국어국문학과 교수)
 
 ## 0. 서지정보 데이터 다운로드
+[데이터 개괄(필독)](https://github.com/ByungjunKim/DDMKL/blob/main/data/DATA.md)
 [data 폴더](https://github.com/ByungjunKim/DDMKL/tree/main/data)
 
 ## 1. 데이터 수집 및 개괄
