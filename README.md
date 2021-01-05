@@ -49,9 +49,9 @@ Jupyter 코드(ipynb)를 다운받아 로컬에서 활용하거나,
 
 ## 4. 시계열 토픽 모델링
 #### 04Model.ipynb ([구글 Colab 링크](https://colab.research.google.com/drive/15A9sNGjogSm23yYmT_KVkwWd6YHxfvur?usp=sharing))
-##### [Dynamic Topic Model 바이너리 Github](https://github.com/magsilva/dtm)
-##### [Dynamic Topic Model 바이너리 다운로드(윈도우64)](https://github.com/magsilva/dtm/raw/master/bin/dtm-win64.exe)
-##### [Dynamic Topic Model 바이너리 다운로드(리눅스64)](https://github.com/magsilva/dtm/raw/master/bin/dtm-linux64)
+[Dynamic Topic Model 바이너리 Github](https://github.com/magsilva/dtm)  
+[Dynamic Topic Model 바이너리 다운로드(윈도우64)](https://github.com/magsilva/dtm/raw/master/bin/dtm-win64.exe)  
+[Dynamic Topic Model 바이너리 다운로드(리눅스64)](https://github.com/magsilva/dtm/raw/master/bin/dtm-linux64)  
 * 모델링
 * 시간에 따른 토픽별 주요단어 변화
 * 모델링 결과 시각화
