@@ -8,6 +8,8 @@
 ## 코드 활용
 Jupyter 코드(ipynb)를 다운받아 로컬에서 활용하거나, 핵심 코드 3개(전처리, 키워드, 모델링)는 Google Colab으로 바로 코드 확인 및 개발 가능.
 
+---
+
 ## 0. 서지정보 데이터 다운로드
 #### [데이터 안내(필독)](https://github.com/ByungjunKim/DDMKL/blob/main/data/DATA.md)
 #### [data 폴더](https://github.com/ByungjunKim/DDMKL/tree/main/data)
