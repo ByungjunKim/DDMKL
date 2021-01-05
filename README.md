@@ -5,7 +5,7 @@
 한국 현대문학 연구 변화와 앞으로의 동향을 전망하는 연구의 파이썬 코드입니다.  
 데이터 수집 및 분석의 자세한 과정은 아래 논문을 참고하십시오.  
 논문이나 코드관련 문의는 아래 저자 소개에 있는 이메일로 연락주시거나 깃허브 issue 페이지를 통해 받겠습니다.  
-#### [박사학위 논문(2000~2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망 (상허학보 60, 202010)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202)
+#### [박사학위 논문(2000~2019) 데이터 분석을 통해 본 한국 현대문학 연구의 변화와 전망 (상허학보 60, 2020)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002647202)
 
 ## 저자
 * 김병준(성균관대학교 인터랙션사이언스학과 박사과정/국어국문학과 강사, kimkunta@skku.edu)
