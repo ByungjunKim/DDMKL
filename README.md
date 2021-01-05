@@ -23,7 +23,7 @@ Jupyter 코드(ipynb)를 다운받아 로컬에서 활용하거나,
 #### [data 폴더](https://github.com/ByungjunKim/DDMKL/tree/main/data)
 
 ## 1. 데이터 수집 및 개괄
-### Selenium 을 활용한 RISS 서지정보 자동 내려받기
+#### Selenium 을 활용한 RISS 서지정보 자동 내려받기
 #### 00RissCrawling.ipynb (RISS 서지정보 자동수집, [코드 활용안내 튜토리얼](https://youtu.be/3A7EKg9XyMU))
 #### 01RissParsing.ipynb (RISS에서 다운로드 받은 서지정보 엑셀파일 합치기)
 #### [크롬 드라이버 다운로드](https://chromedriver.chromium.org/downloads)
