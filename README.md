@@ -9,7 +9,7 @@
 #### [논문 Wiki 페이지](http://www.klbksk.com/wiki/index.php/DDMKL)
 
 ## 저자
-* 김병준(성균관대학교 인터랙션사이언스학과 박사과정/국어국문학과 강사, kimkunta@skku.edu)
+* 김병준(성균관대학교 인터랙션사이언스학과 박사과정/국어국문학과 강사, bjkim@byungjunkim.com)
 * 천정환(성균관대학교 국어국문학과 교수, hicnunc@skku.edu)
 
 ## 코드 활용
